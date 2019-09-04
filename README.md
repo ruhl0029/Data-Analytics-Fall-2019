@@ -1,6 +1,6 @@
 # Data-Analytics-Fall-2019
 
-**If you are having problems viewing the notebooks (Something went wrong, reload?)** Github seems to be having some problems with their notebook rendering engine. You can go to: https://nbviewer.jupyter.org and paste in the url from the notebook you are trying to view.  
+**If you are having problems viewing the notebooks (Something went wrong, reload?):** Github seems to be having some problems with their notebook rendering engine. You can go to: https://nbviewer.jupyter.org and paste in the url from the notebook you are trying to view.  
 
 Files related to UW Madison course Econ 690
 
