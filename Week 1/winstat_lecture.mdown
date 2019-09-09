@@ -1,0 +1,29 @@
+
+
+## Winstat lecture notes
+
+### Ways to run python. 
+
+1. Install a python distribution to your laptop. I recommend Anaconda with Python 3. Pros: Do not need the internet to run code. More control over how the distribution is set up. Cons: You are responsible for getting the install and packages to work. 
+
+2. Use Winstat, a server run by the social science computing coop. Pros: Professionals keep things running smoothly. Cons: Need the internet to use Winstat. Have less control over how the distribution is set up.  (Extra pros: Winstat has other useful software besides python, MATLAB, Dynare, STATA,...)
+
+We will use Winstat in class. This way we do not have to worry about some idiosyncratic program already installed on your laptop causing problems with installation, and we have a dedicated help desk to talk with if things go wrong.
+
+### Installing winstat
+
+1. Go to link from webpage [https://www.ssc.wisc.edu/sscc/pubs/winstat.htm]. Install citrix and run configuration file. 
+
+2. Open winstat. User name is same as UW account. Reset password at: 
+   [https://www.ssc.wisc.edu/sscc_jsp/password/reset.jsp]
+
+
+### Things to keep in mind
+
+1. Difference between local drives and winstat drives.
+
+2. Two winstat drives are (U:) which is your private drive and (X:) which has the Econ690 folder. Any file not saved in your (U:) drive will be deleted when you log out of winstat.  
+
+3. The Econ690 folder is where I store the files we will use in class. You cannot write to the Econ690 folder. I will let you know which files we need, and you can a copy of the files to your (X:) at the beginning of class.  
+
+4. Sign out (rather than disconnect) when you are finished. If you disconnect, your session remains running (wasting resources) until it is automatically stopped after three hours. Trying to login with a previously running session can sometimes cause problems.  
